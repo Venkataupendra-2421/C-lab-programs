@@ -28,7 +28,7 @@ P11:Mean ,Mode, Median of the array of numbers
 
 P12:Armstrong Number
      
-P13:
+P13:Removing vowels from string
 
 P14:
 
