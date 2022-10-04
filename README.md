@@ -22,14 +22,14 @@ P8:Factors of given numbers
 
 P9:Composite numbers between a and b
 
-P10:Average of positive numbers and negative numbers
+P10:Sum of digits of n digit number
 
 P11:Mean ,Mode, Median of the array of numbers
 
-P12:Alphabetical order
-     Ascending order
-     Descending order
+P12:Armstrong Number
      
-P13:Sum of digits of n digit number
+P13:
 
-P15:Removing vowels from the string
+P14:
+
+P15:
