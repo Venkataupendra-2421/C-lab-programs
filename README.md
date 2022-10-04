@@ -16,7 +16,7 @@ P5:Palindrome or not
 
 P6:LCM and GCD
 
-P7: n Perfect numbers
+P7:Multiplication and Divison table
 
 P8:Factors of given numbers
 
